@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import componentes_rodriguezpablo.TemporizadorController?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="200.0" prefWidth="200.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pruebatimeline.PruebaTimelineController">
+   <children>
+      <TemporizadorController layoutX="47.0" layoutY="39.0" />
+   </children>
+</AnchorPane>
